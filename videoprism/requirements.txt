@@ -1,0 +1,7 @@
+numpy==1.26
+absl-py==2.3.0
+einops==0.8.1
+einshape==1.0
+flax==0.8.5
+sentencepiece==0.2.0
+tensorflow-cpu==2.10.0
